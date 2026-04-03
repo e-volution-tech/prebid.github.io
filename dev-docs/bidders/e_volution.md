@@ -32,7 +32,8 @@ The E-volution Bidding adapter requires setup before beginning. Please contact u
 {: .table .table-bordered .table-striped }
 | Name          | Scope    | Description           | Example   | Type      |
 |---------------|----------|-----------------------|-----------|-----------|
-| `placementId`      | required | E-volution tech placement id         | `'1234asdf'`    | `'string'` |
+| `placementId` | optional | Placement Id | `'0'`   | `'string'` |
+| `endpointId`  | optional | Endpoint Id  | `'0'`   | `'string'` |
 
 ### Prebid Server Bid Params
 
