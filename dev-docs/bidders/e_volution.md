@@ -42,4 +42,4 @@ The E-volution Bidding adapter requires setup before beginning. Please contact u
 
 | Name  | Scope    | Description                 | Example                              | Type     |
 |-------|----------|-----------------------------|--------------------------------------|----------|
-| `key` | required | E-volution integration key | `'cf64c93f277afdd928d8260653d7413d'` | `string` |
+| `key` | required | E-volution integration key  | `'cf64c93f277afdd928d8260653d7413d'` | `string` |
